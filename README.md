@@ -19,7 +19,10 @@ Airon Ruda
 
 El proyecto consiste en una página de películas en la que se presentan diferentes títulos en los que varía su nombre, calificación y categoría. Es posible usar el buscador disponible para filtrar las películas, por nombre, categoría o calificación.
 Para que la información pueda desplegarse correctamente se debe contar con el JSON-SERVER usando en una consola, el siguiente código:
+
 npm install -g json-server
+
 para la instalación del servicio en general.
 Además, en una consola de tipo cmd, se debe ingresar el siguiente código:
+
 json-server –watch db.json
