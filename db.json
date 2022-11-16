@@ -66,13 +66,6 @@
       "nombre": "El señor de los anillos",
       "categoria": "accion"
     },
-
-    {
-      "imagen": "./imagenes/elSeñorDeLosAnillos2.jpg",
-      "puntaje": 5,
-      "nombre": "El señor de los anillos",
-      "categoria": "accion"
-    },
     {
       "imagen": "./imagenes/elSilencioDeLosCorderos.jpg",
       "puntaje": 1,
