@@ -1,0 +1,68 @@
+body {
+    background-color: grey;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.center {
+    width: 75%;
+    margin: 0px auto;
+}
+#header {
+    background-color:darkslategrey;
+    height: 80px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+#logo {
+    width: 30%;
+    font-size: 25px;
+    float: left;
+}
+#logo img {
+    background-color: darkslategrey;
+    display: block;
+    float: left;
+    height: 60px;
+    margin: 5px;
+}
+#logo p {
+    display: block;
+    float: left;
+    margin-left: 10px;
+    color: grey;
+}
+#search {
+    display: block;
+    float: right;
+    margin: 29px;
+}
+#content {
+    width: 75%;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card{
+    border-radius: 10px;
+    background-color: #ccc;
+    margin: 15px;
+    padding: 10px;
+    width: 250px;
+    display: flex;
+    height: 300px;
+    flex-direction: column;
+    align-items: center;
+}
+.card img {
+    border-radius: 10px;
+    width: 80%;
+    height: 60%;
+}
+.card h3 {
+    margin: 5px;
+}
+.card p {
+    margin: 5px;
+}

@@ -1,0 +1,64 @@
+{
+    "peliculas": [
+        {
+            "imagen":"./imagenes/elSeñorDeLosAnillos2.jpg",
+            "puntaje":5,
+            "nombre": "El señor de los anillos",
+            "categoria":"accion"
+        },
+        {
+            "imagen":"./imagenes/elSilencioDeLosCorderos.jpg",
+            "puntaje":1,
+            "nombre": "El silecion de los corderos",
+            "categoria":"drama"
+        },
+        {
+            "imagen":"./imagenes/forrestGump.jpg",
+            "puntaje":3.5,
+            "nombre": "forrest gump",
+            "categoria":"romance"
+        },
+        {
+            "imagen":"./imagenes/laListaDeSchindler.jpg",
+            "puntaje":1.1,
+            "nombre": "La lista de schindler",
+            "categoria":"terror"
+        },
+        {
+            "imagen":"./imagenes/los7Samurais.jpg",
+            "puntaje":2,
+            "nombre": "Los 7 samurai",
+            "categoria":"fantasia"
+        },
+        {
+            "imagen":"./imagenes/matrix.jpg",
+            "puntaje":4.2,
+            "nombre": "Matrix",
+            "categoria":"ciencia ficcion"
+        },
+        {
+            "imagen":"./imagenes/pulpFiction.jpg",
+            "puntaje":4.3,
+            "nombre": "Pulp fiction",
+            "categoria":"drama"
+        },
+        {
+            "imagen":"./imagenes/queBellosEsVivir.jpg",
+            "puntaje":3,
+            "nombre": "Que bello es vivir",
+            "categoria":"accion"
+        },
+        {
+            "imagen":"./imagenes/seven.jpg",
+            "puntaje":2.4,
+            "nombre": "Seven",
+            "categoria":"romance"
+        },
+        {
+            "imagen":"./imagenes/unoDeLosNuestros.jpg",
+            "puntaje":2.8,
+            "nombre": "Uno de los nuestros",
+            "categoria":"misterio"
+        }
+    ]
+}
